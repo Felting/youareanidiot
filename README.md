@@ -6,7 +6,7 @@ As to contrary belief the youareanidiot trojan does not originate from youareani
 
 # Compatability
 
-This only works on Windows 98.
+This works on windows 9x systems.
 
 # Live Examples
 https://idiot.7m.pl/idiot
